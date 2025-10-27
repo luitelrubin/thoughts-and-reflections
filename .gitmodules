@@ -2,6 +2,3 @@
     path = themes
     url = https://github.com/jbub/ghostwriter.git
 
-
-    git submodule add https://github.com/jbub/ghostwriter.git themes
-git commit -am "Fix submodule URL for themes"
