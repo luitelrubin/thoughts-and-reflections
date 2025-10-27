@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Home</title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 21 Aug 2023 16:27:32 +0545</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My third post</title>
+      <link>//localhost:1313/third_post/</link>
+      <pubDate>Mon, 21 Aug 2023 16:27:32 +0545</pubDate>
+      <guid>//localhost:1313/third_post/</guid>
+      <description>&lt;h1 id=&#34;on-efficient-budgeting&#34;&gt;On efficient budgeting&lt;/h1&gt;&#xA;&lt;p&gt;How should young adults approach the subject of money and work towards building a financially stable future?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My second post</title>
+      <link>//localhost:1313/second_post/</link>
+      <pubDate>Mon, 21 Aug 2023 16:24:27 +0545</pubDate>
+      <guid>//localhost:1313/second_post/</guid>
+      <description>&lt;h1 id=&#34;on-time-management&#34;&gt;On time management&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been interested in the subject of time management ever since I realized I get so little done in so much time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My first post</title>
+      <link>//localhost:1313/helloworld/</link>
+      <pubDate>Sat, 19 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/helloworld/</guid>
+      <description>&lt;h1 id=&#34;about-me&#34;&gt;About me&lt;/h1&gt;&#xA;&lt;p&gt;I like to think of myself as an aspiring blogger.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,18 @@
+baseurl = "/"
+title = "Home"
+theme = "ghostwriter"
+
+[Params]
+    mainSections = ["post"]
+    intro = true
+    headline = "Thoughts And Reflections"
+    description = "Rubin Luitel's"
+    github = "https://github.com/luitelrubin"
+    twitter = "https://twitter.com/luitelrubin"
+    facebook = "https://facebook.com/luitelrubin"
+    email = "rubinluitel@duck.com"
+    #opengraph = true
+    dateFormat = "Mon, Jan 2, 2006"
+
+[Permalinks]
+    post = "/:filename/"
